@@ -3,7 +3,7 @@
 ## 👩‍💻 About Me
 - 🎓  Computer Science & Engineering  
 - 🌱 Currently exploring **Cybersecurity**, **Machine Learning**, and **Quantum Computing**  
-- 💻 Skilled in **C++, HTML, CSS**  
+- 💻 Skilled in C, python 
 - 📊 Passionate about Research & Development  
 
 ---
