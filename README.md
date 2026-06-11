@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-parihar-b6a7683)  
+[![LinkedIn](https://www.linkedin.com/in/siya-arora-602350384?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
 
 
